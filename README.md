@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Diploma in computer Engineering**
 
-- 👨‍💻 All of my projects are available at ([https://vedantkale08.netlify.app/](https://vedant-kale.vercel.app/))
+- 👨‍💻 All of my projects are available at [https://vedant-kale.vercel.app/](https://vedant-kale.vercel.app/)
 
 - 💬 Ask me about **reactJs, vueJs, nextJs, CSS, HTML, LARAVEL, PHP**
 
