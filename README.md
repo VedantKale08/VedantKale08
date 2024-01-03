@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/vedantkale08" target="blank"><img src="https://img.shields.io/twitter/follow/vedantkale08?logo=twitter&style=for-the-badge" alt="vedantkale08" /></a> </p>
 
-- 🌱 I’m currently learning **Diploma in computer Engineering**
+- 🌱 I’m currently persuing **Btech in computer Engineering at Veermata Jijabai Technological Institute**
 
 - 👨‍💻 All of my projects are available at [https://vedant-kale.vercel.app/](https://vedant-kale.vercel.app/)
 
-- 💬 Ask me about **reactJs, vueJs, nextJs, CSS, HTML, LARAVEL, PHP**
+- 💬 Ask me about **ReactJs, VueJs, NextJs, CSS, HTML, LARAVEL, PHP, Tailwind**
 
 - 📫 How to reach me **vedantkale8114@gmail.com**
 
