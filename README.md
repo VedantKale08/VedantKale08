@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Kale</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantkale08&label=Profile%20views&color=0e75b6&style=flat" alt="vedantkale08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantkale08" alt="vedantkale08" /></a> </p>
-
 - 🌱 I’m currently persuing **Btech in computer Engineering at Veermata Jijabai Technological Institute**
 
 - 🌱 I’m currently learning **AIML**
