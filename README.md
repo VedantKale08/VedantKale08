@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vedantkale8114@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13i4M2fQy_J8GT4MvTaApqp4-om1PNb3z/view?usp=sharinghttps://drive.google.com/file/d/13i4M2fQy_J8GT4MvTaApqp4-om1PNb3z/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sCKb0WyHTDcFgHgZs8zI7LhgWnfl6PRh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
